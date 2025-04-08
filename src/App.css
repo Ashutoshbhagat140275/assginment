@@ -1,0 +1,14 @@
+.input-button{
+  width:90%;
+  margin: 10px auto;
+  padding:8px ;
+  border-radius: 5px;
+  border:1px solid #bbb;
+  display: block;
+  background-color: #bbb;
+}
+
+.label{
+  display:'block';
+  padding-left: 10px;
+}
